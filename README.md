@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=8A3BF7&multiline=true&width=435&lines=keyboard+enjoyer;im+not+a+proffessional(yet))](https://git.io/typing-svg)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=8A3BF7&multiline=true&width=435&lines=keyboard+enjoyer;im+not+a+proffessional(yet)" alt="Typing SVG" />
 </div>
 
 ---
